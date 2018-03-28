@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="TestngTest">
+		<classes>
+		<class name="executions.Qual_Update_TS_15">
+				<methods>
+					<include name="CRe4_924_925_926" />
+					<include name="CRe4_927" />
+				</methods>
+			</class>
+			<class name="executions.Doctype_add_TS_16">
+				<methods>
+					<include name="CRe4_959_960" />
+					<include name="CRe4_960_a_961" />
+					<include name="CRe4_961_a_962" />
+					<include name="CRe4_961_b" />
+				</methods>
+			</class>
+			<class name="executions.Doctype_Update_TS_17">
+				<methods>
+					<include name="CRe4_948_949" />
+					<include name="CRe4_950_951" />
+					<include name="CRe4_952" />
+					<include name="CRe4_953" />
+					<include name="CRe4_954" />
+					<include name="CRe4_955" />
+					<include name="CRe4_956" />
+					<include name="CRe4_957" />
+					<include name="CRe4_958" />
+				</methods>
+			</class>
+			<class name="executions.Doctype_search_TS_18">
+				<methods>
+					<include name="CRe4_932_933_934_935_936" />
+					<include name="CRe4_937" />
+					<include name="CRe4_938" />
+					<include name="CRe4_939" />
+					<include name="CRe4_940" />
+					<include name="CRe4_941" />
+					<include name="CRe4_942" />
+					<include name="CRe4_943" />
+					<include name="CRe4_944" />
+					<include name="CRe4_945" />
+				</methods>
+			</class>
+			<class name="executions.Mem_add_TS_19">
+				<methods>
+					<include name="CRe4_979_980_981_982_983_984_985" />
+					<include name="CRe4_986" />
+					<include name="CRe4_1022_1023_1024_1025_1026_1028" />
+					<include name="CRe4_1027" />
+					<include name="CRe4_1029" />
+					<include name="CRe4_1030" />
+					<include name="CRe4_1031" />
+					<include name="CRe4_1032" />
+					<include name="CRe4_1033" />
+					<include name="CRe4_1034" />
+					<include name="CRe4_1035" />
+					<include name="CRe4_1037" />
+					<include name="CRe4_1036" />
+					<include name="CRe4_1038" />
+					<include name="CRe4_1039" />
+					<include name="CRe4_1040" />
+					<include name="CRe4_1041" />
+					<include name="CRe4_1042" />
+					<include name="CRe4_1043" />
+					<include name="CRe4_1044" />
+					<include name="CRe4_1045" />
+					<include name="CRe4_1047" />
+					<include name="CRe4_1048" />
+					<include name="CRe4_1051" />
+					<include name="CRe4_1054" />
+				</methods>
+			</class>
+			<class name="executions.Mem_Update_TS_20">
+				<methods>
+					<include name="CRe4_987_988" />
+					<include name="CRe4_989" />
+					<include name="CRe4_990" />
+					<include name="CRe4_992" />
+					<include name="CRe4_993" />
+					<include name="CRe4_995" />
+					<include name="CRe4_996" />
+					<include name="CRe4_998" />
+					<include name="CRe4_999" />
+					<include name="CRe4_1001" />
+					<include name="CRe4_1002" />
+					<include name="CRe4_1004" />
+					<include name="CRe4_1005" />
+					<include name="CRe4_1007" />
+					<include name="CRe4_1008" />
+					<include name="CRe4_1010" />
+					<include name="CRe4_1011" />
+					<include name="CRe4_1013" />
+					<include name="CRe4_1014" />
+					<include name="CRe4_1016" />
+					<include name="CRe4_1017" />
+					<include name="CRe4_1019" />
+					<include name="CRe4_1020" />
+					<include name="CRe4_1021" />
+				</methods>
+			</class>
+			<class name="executions.Mem_search_TS_21">
+				<methods>
+					<include name="CRe4_970_971_972_973_977" />
+					<include name="CRe4_974" />
+					<include name="CRe4_975" />
+					<include name="CRe4_976" />
+					<include name="CRe4_978" />
+				</methods>
+			</class>
+			<class name="executions.Ethic_add_TS_22">
+				<methods>
+					<include name="CRe4_1064_65" />
+					<include name="CRe4_1066_1067" />
+					<include name="CRe4_1070_71_1085_80_to_85" />
+					<include name="CRe4_1077" />
+					<include name="CRe4_1078" />
+					<include name="CRe4_1079" />
+					<include name="CRe4_1080" />
+					<include name="CRe4_1095_to_1100_1101_1102" />
+				</methods>
+			</class>
+			<class name="executions.Ethic_search_TS_23">
+				<methods>
+					<include name="CRe4_1056" />
+					<include name="CRe4_1057" />
+					<include name="CRe4_1058" />
+					<include name="CRe4_1059" />
+					<include name="CRe4_1062" />
+				</methods>
+			</class>
+			<class name="executions.Ethic_Update_TS_24">
+				<methods>
+					<include name="CRe4_1105" />
+					<include name="CRe4_1106" />
+					<include name="CRe4_1108" />
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- TestngTest -->
+</suite> <!-- Suite -->
